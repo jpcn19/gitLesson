@@ -1,2 +1,2 @@
 adft
-test
+:west
